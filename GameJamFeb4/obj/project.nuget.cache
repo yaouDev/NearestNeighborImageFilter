@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVr5+qclq5p0zpgW19bwiTGQWZAGSbceeWTZI7e/tUvFur/lFlMJJazb++lzpmAmC8IKjTjm9hlReN0vkjRSrg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\csharp\\GameJamFeb4\\GameJamFeb4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\August\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\August\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
