@@ -7,10 +7,11 @@ namespace GameJamFeb4.src
     {
         static void Main(string[] args)
         {
-            Color[] colors = { Color.Black, Color.Red, Color.Orange, Color.Yellow, Color.Blue, Color.Cyan, Color.White };
+            //Color[] colors = { Color.Black, Color.Red, Color.Orange, Color.Yellow, Color.Blue, Color.Cyan, Color.White };
+            Color[] colors = { Color.Black, Color.White };
             GeneratedImage g = new GeneratedImage("generated", colors, 100);
 
-            Bitmap testmap = g.Generate(10);
+            Bitmap testmap = g.Generate(100, 100, 5);
 
             //g.Iterate(4, true);
             /*Color[] nine = g.GetMatrix(-1, -1, testmap, 3);

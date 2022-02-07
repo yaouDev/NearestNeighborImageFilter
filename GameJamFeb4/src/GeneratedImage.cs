@@ -38,9 +38,9 @@ namespace GameJamFeb4.src
             this.priorityStrength = priorityStrength;
         }
 
-        public Bitmap Generate(int timesToIterate)
+        public Bitmap Generate(int width, int height, int timesToIterate)
         {
-            image = new Bitmap(100, 100);
+            image = new Bitmap(width, height);
             iterations = 0;
 
             Fill(image, baseColor);
