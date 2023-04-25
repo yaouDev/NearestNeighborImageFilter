@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJnHBmGYDBwhsR1UYsRLzRFYdXNU8SmtBZm6IOwsKeHr/cSlPVGGiMn2wSGH799rUDhFXkfK0fSf4j4K8ZuH9g==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\csharp\\PixelReshaper\\PixelReshaper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\August\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

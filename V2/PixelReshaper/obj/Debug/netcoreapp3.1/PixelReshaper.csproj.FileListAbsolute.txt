@@ -1,0 +1,15 @@
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.exe
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.deps.json
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.runtimeconfig.json
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.runtimeconfig.dev.json
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.dll
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\PixelReshaper.pdb
+D:\dev\csharp\PixelReshaper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.csprojAssemblyReference.cache
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.AssemblyInfoInputs.cache
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.AssemblyInfo.cs
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.csproj.CoreCompileInputs.cache
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.csproj.CopyComplete
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.dll
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.pdb
+D:\dev\csharp\PixelReshaper\obj\Debug\netcoreapp3.1\PixelReshaper.genruntimeconfig.cache
